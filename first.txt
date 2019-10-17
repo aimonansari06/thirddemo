@@ -1,3 +1,6 @@
 hello first
 
 changes made to merge commit master branch
+
+changes made to merge commit newtest branch
+
