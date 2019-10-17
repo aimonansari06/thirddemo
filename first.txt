@@ -1,3 +1,3 @@
 hello first
 
-changes made to merge commit
+changes made to merge commit master branch
